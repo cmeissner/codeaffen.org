@@ -183,8 +183,8 @@ gtag_block_3rd_party_code: true
 # in the "siteKey" and "secret" parameters below and also in `staticman.yml`.
 # See more details at https://staticman.net/
 staticman:
-  repository : "codeaffen/codeaffen.org" # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : "develop" # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  repository : "cmeissner/codeaffen.org" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : "staging" # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : "https://codeaffen-staticman.herokuapp.com/v3/entry/github/" # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance)
   # reCaptcha:
   #   siteKey  : "codeaffen" # Use your own site key, you need to apply for one on Google
