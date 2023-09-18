@@ -4,6 +4,7 @@ title: Bitwarden on premise
 subtitle: Operate your own bitwarden infrastructure
 tags: [bitwarden, password managers, docker, container]
 author: cmeissner
+redirect_from: /2021-03-02-self-hosted-bitwarden/
 ---
 
 ## Why bitwarden?
