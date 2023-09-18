@@ -27,7 +27,6 @@ For the `vlan` controller you find there the following parameters. Parameters wi
 |**name**|varchar|POST|Vlan name|
 |**number**|int|POST, PATCH|Vlan number|
 |**description**|text|POST, PATCH|Vlan description|
-redirect_from: /2021-01-07-writing-phpipam-ansible-modules/
 |**editDate**|datetime|/|Date and time of last update|
 
 You should also look into phpIPAM's WebUI as the API documentation does not say much about mandatory parameters and possibly defaults.
