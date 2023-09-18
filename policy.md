@@ -4,6 +4,7 @@ title: Cookie Policy for Monkey home
 tags: [cookie, policy, GDPR, DSGVO]
 show-avatar: false
 nav-short: true
+redirect_from: /policy/
 ---
 
 This is the Cookie Policy for Monkey home, accessible from codeaffen.org

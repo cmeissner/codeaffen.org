@@ -6,6 +6,7 @@ tags: [project, phpipam, ansible, contributing]
 author: cmeissner
 gh-repo: codeaffen/phpipam-ansible-modules
 gh-badge: [star, watch, fork, follow]
+redirect_from: /2021-01-07-writing-phpipam-ansible-modules/
 ---
 
 We started to develop our [phpipam-ansible-modules](https://github.com/codeaffen/phpipam-ansible-modules) to manage phpIPAM installation from within Ansible.
@@ -26,14 +27,13 @@ For the `vlan` controller you find there the following parameters. Parameters wi
 |**name**|varchar|POST|Vlan name|
 |**number**|int|POST, PATCH|Vlan number|
 |**description**|text|POST, PATCH|Vlan description|
-redirect_from: /2021-01-07-writing-phpipam-ansible-modules/
 |**editDate**|datetime|/|Date and time of last update|
 
 You should also look into phpIPAM's WebUI as the API documentation does not say much about mandatory parameters and possibly defaults.
 
 For most controllers `name` is a mandatory parameter, in our case `number` is also required.
 
-![new vlan dialog](../assets/img/phpipam_new_vlan_dialog.jpg)
+![new vlan dialog](/assets/img/phpipam_new_vlan_dialog.jpg)
 
 In the `Add VLAN` dialog is also defined that `default` is the default L2 Domain.
 

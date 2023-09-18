@@ -6,6 +6,7 @@ cover-img: /assets/img/parsedmarc_header.png
 thumbnail-img: /assets/img/DMARC-logo.png
 author: cmeissner
 tags: [parsedmarc, dmarc, spf, dkim, anti spam, elasticsearch, kibana]
+redirect_from: /2022-03-01-parsedmarc-guide/
 ---
 
 DMARC stands for "Domain-based Message Authentication, Reporting and Conformance". It is as protocol for email authentication, policy and reporting.
@@ -305,7 +306,6 @@ WantedBy=multi-user.target
 {% endhighlight %}
 </details>
 {::options parse_block_html="false" /}
-redirect_from: /2022-03-01-parsedmarc-guide/
 <!-- markdownlint-enable MD033 -->
 
 With this configuration we are ready to enable and start the parsedmarc service as follows.

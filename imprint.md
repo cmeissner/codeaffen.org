@@ -2,6 +2,7 @@
 layout: page
 title: Legal Disclosure
 tags: [contact, project, github, IRC]
+redirect_from: /imprint/
 ---
 
 Information in accordance with Section 5 TMG
