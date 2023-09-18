@@ -4,6 +4,7 @@ title: Custom Keyboard Layouts with xkb
 subtitle: How to define and install a custom keyboard layout
 author: cmeissner
 tags: [custom keyboard layout, keyboard layout, keyboard variant, ubuntu, fedora, X11, xkb, Wayland]
+redirect_from: /2023-09-16-custom-keyboard-layouts-with-xkb/
 ---
 
 There are different reasons why the definition of custom keyboard layouts can become necessary.
