@@ -3,6 +3,7 @@ layout: page
 title: Contact
 subtitle: Communicate & contribute
 tags: [contact, project, github, diccord, RTC, guidelines, mastodon]
+redirect_from: /contact/
 ---
 
 ## Communication and Community Guidelines
