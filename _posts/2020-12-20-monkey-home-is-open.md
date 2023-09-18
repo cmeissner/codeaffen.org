@@ -5,6 +5,7 @@ subtitle: Codeaffen project homepage started today
 thumbnail-img: /assets/img/codeaffen_wo_bg.png
 author: cmeissner
 tags: [project, homepage, welcome]
+redirect_from: /2020-12-20-monkey-home-is-open/
 ---
 
 After creating some code we started today our homepage. It comes as blog and is completly managed via github as we like most of githubs features a lot.

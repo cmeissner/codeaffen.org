@@ -5,6 +5,7 @@ subtitle: How to define and install a custom keyboard layout
 author: cmeissner
 tags: [custom keyboard layout, keyboard layout, keyboard variant, ubuntu]
 last-updated: 2023-09-14
+redirect_from: /2022-02-07-custom-keyboard-layout/
 ---
 
 {: .box-warning}
