@@ -3,7 +3,6 @@ layout: page
 title: About
 subtitle: What is codeaffen and what is it good for
 tags: [about, project, welcome]
-redirect_from: /about/
 ---
 
 My name is Christian Meißner and I founded codeaffen in fall of 2020 because my colleguages and me faced some missing ansible modules.
